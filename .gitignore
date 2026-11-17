@@ -1,0 +1,6 @@
+*.o
+*.out
+LAB_1/child
+LAB_2/batcher
+LAB_3/child
+LAB_3/parent
